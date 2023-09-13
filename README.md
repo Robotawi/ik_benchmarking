@@ -74,7 +74,7 @@ ik_solvers:
   1:
     name: KDL
     kinematics_file: kdl_kinematics.yaml
-  0:
+  2:
     name: TRAC_IK
     kinematics_file: trac_ik_kinematics.yaml
   3:
